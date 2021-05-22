@@ -1,2 +1,3 @@
 # zsh-pipx
-ZSH completions for pipx
+
+ZSH autocompletions for pipx
